@@ -1,0 +1,5 @@
+/Users/hadjirmashiri/Projects/Automobiles/Automobiles/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/hadjirmashiri/Projects/Automobiles/Automobiles/bin/Debug/Automobiles.exe.mdb
+/Users/hadjirmashiri/Projects/Automobiles/Automobiles/bin/Debug/Automobiles.exe
+/Users/hadjirmashiri/Projects/Automobiles/Automobiles/obj/x86/Debug/Automobiles.exe
+/Users/hadjirmashiri/Projects/Automobiles/Automobiles/obj/x86/Debug/Automobiles.exe.mdb

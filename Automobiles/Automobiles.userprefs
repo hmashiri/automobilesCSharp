@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{7129FB58-76E8-4555-BA37-AB421795D704}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Automobiles/Program.cs">
+    <Files>
+      <File FileName="Automobiles/Program.cs" Line="12" Column="28" />
+      <File FileName="Automobiles/Car.cs" Line="17" Column="37" />
+      <File FileName="Automobiles/Honda.cs" Line="14" Column="31" />
+      <File FileName="Automobiles/Audi.cs" Line="14" Column="40" />
+      <File FileName="Automobiles/BMW.cs" Line="1" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Automobiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
